@@ -1,0 +1,428 @@
+{
+    "SECTION : I": [
+        {
+            "name": "Animaux vivants",
+            "url": "https://www.douane.gov.ma/tarif/pdf/01.pdf"
+        },
+        {
+            "name": "Viandes et abats comestibles",
+            "url": "https://www.douane.gov.ma/tarif/pdf/02.pdf"
+        },
+        {
+            "name": "Poissons et crustacés, mollusques et autres invertébrés aquatiques",
+            "url": "https://www.douane.gov.ma/tarif/pdf/03.pdf"
+        },
+        {
+            "name": "Lait et produits de la laiterie; oeufs d'oiseaux; miel naturel; produits comestibles d'origine animale, non dénommés ni compris ailleurs",
+            "url": "https://www.douane.gov.ma/tarif/pdf/04.pdf"
+        },
+        {
+            "name": "Autres produits d'origine animale, non dénommés ni compris ailleurs",
+            "url": "https://www.douane.gov.ma/tarif/pdf/05.pdf"
+        }
+    ],
+    "SECTION II": [
+        {
+            "name": "Plantes vivantes et produits de la floriculture",
+            "url": "https://www.douane.gov.ma/tarif/pdf/06.pdf"
+        },
+        {
+            "name": "Légumes, plantes, racines et tubercules alimentaires",
+            "url": "https://www.douane.gov.ma/tarif/pdf/07.pdf"
+        },
+        {
+            "name": "Fruits comestibles; écorces d'agrumes ou de melons",
+            "url": "https://www.douane.gov.ma/tarif/pdf/08.pdf"
+        },
+        {
+            "name": "Café, thé, maté et épices",
+            "url": "https://www.douane.gov.ma/tarif/pdf/09.pdf"
+        },
+        {
+            "name": "Céréales",
+            "url": "https://www.douane.gov.ma/tarif/pdf/10.pdf"
+        },
+        {
+            "name": "Produits de la minoterie; malt; amidons et fécules; inuline; gluten de froment",
+            "url": "https://www.douane.gov.ma/tarif/pdf/11.pdf"
+        },
+        {
+            "name": "Graines et fruits oléagineux; graines, semences et fruits divers; plantes industrielles ou médicinales; pailles et fourrages",
+            "url": "https://www.douane.gov.ma/tarif/pdf/12.pdf"
+        },
+        {
+            "name": "Gommes, résines et autres sucs et extraits végétaux",
+            "url": "https://www.douane.gov.ma/tarif/pdf/13.pdf"
+        },
+        {
+            "name": "Matières à tresser et autres produits d'origine végétale, non dénommés ni compris ailleurs",
+            "url": "https://www.douane.gov.ma/tarif/pdf/14.pdf"
+        }
+    ],
+    "SECTION III": [
+        {
+            "name": "Graisses et huiles animales ou végétales; produits de leur dissociation; graisses alimentaires élaborées; cires d'origine animale ou végétale",
+            "url": "https://www.douane.gov.ma/tarif/pdf/15.pdf"
+        }
+    ],
+    "SECTION IV": [
+        {
+            "name": "Préparations de viande, de poissons ou de crustacés, de mollusques ou d'autres invertébrés aquatiques",
+            "url": "https://www.douane.gov.ma/tarif/pdf/16.pdf"
+        },
+        {
+            "name": "Sucres et sucreries",
+            "url": "https://www.douane.gov.ma/tarif/pdf/17.pdf"
+        },
+        {
+            "name": "Cacao et ses préparations",
+            "url": "https://www.douane.gov.ma/tarif/pdf/18.pdf"
+        },
+        {
+            "name": "Préparations à base de céréales, de farines, d'amidons, de fécules ou de lait; pâtisseries",
+            "url": "https://www.douane.gov.ma/tarif/pdf/19.pdf"
+        },
+        {
+            "name": "Préparations de légumes, de fruits ou d'autres parties de plantes",
+            "url": "https://www.douane.gov.ma/tarif/pdf/20.pdf"
+        },
+        {
+            "name": "Préparations alimentaires diverses",
+            "url": "https://www.douane.gov.ma/tarif/pdf/21.pdf"
+        },
+        {
+            "name": "Boissons, liquides alcooliques et vinaigres",
+            "url": "https://www.douane.gov.ma/tarif/pdf/22.pdf"
+        },
+        {
+            "name": "Résidus et déchets des industries alimentaires; aliments préparés pour animaux",
+            "url": "https://www.douane.gov.ma/tarif/pdf/23.pdf"
+        },
+        {
+            "name": "Tabacs et succédanés de tabac fabriqués",
+            "url": "https://www.douane.gov.ma/tarif/pdf/24.pdf"
+        }
+    ],
+    "SECTION V": [
+        {
+            "name": "Sel; soufre; terres et pierres; plâtres, chaux et ciments",
+            "url": "https://www.douane.gov.ma/tarif/pdf/25.pdf"
+        },
+        {
+            "name": "Minerais, scories et cendres",
+            "url": "https://www.douane.gov.ma/tarif/pdf/26.pdf"
+        },
+        {
+            "name": "Combustibles minéraux, huiles minérales et produits de leur distillation; matières bitumineuses; cires minérales",
+            "url": "https://www.douane.gov.ma/tarif/pdf/27.pdf"
+        }
+    ],
+    "SECTION VI": [
+        {
+            "name": "Produits chimiques inorganiques; composés inorganiques ou organiques de métaux précieux, d'éléments radioactifs, de métaux des terres rares ou d'isotopes",
+            "url": "https://www.douane.gov.ma/tarif/pdf/28.pdf"
+        },
+        {
+            "name": "Produits chimiques organiques",
+            "url": "https://www.douane.gov.ma/tarif/pdf/29.pdf"
+        },
+        {
+            "name": "Produits pharmaceutiques",
+            "url": "https://www.douane.gov.ma/tarif/pdf/30.pdf"
+        },
+        {
+            "name": "Engrais",
+            "url": "https://www.douane.gov.ma/tarif/pdf/31.pdf"
+        },
+        {
+            "name": "Extraits tannants ou tinctoriaux; tanins et leurs dérivés; pigments et autres matières colorantes; peintures et vernis; mastics; encres",
+            "url": "https://www.douane.gov.ma/tarif/pdf/32.pdf"
+        },
+        {
+            "name": "Huiles essentielles et résinoïdes; produits de parfumerie ou de toilette préparés et préparations cosmétiques",
+            "url": "https://www.douane.gov.ma/tarif/pdf/33.pdf"
+        },
+        {
+            "name": "Savons, agents de surface organiques, préparations pour lessives, préparations lubrifiantes, cires artificielles, cires préparées, produits d'entretien, bougies et articles similaires, pâtes à modeler, «cires pour l'art dentaire» et compositions pour l'art dentaire à base de plâtre",
+            "url": "https://www.douane.gov.ma/tarif/pdf/34.pdf"
+        },
+        {
+            "name": "Matières albuminoïdes; produits à base d'amidons ou de fécules modifiés; colles; enzymes",
+            "url": "https://www.douane.gov.ma/tarif/pdf/35.pdf"
+        },
+        {
+            "name": "Poudres et explosifs; articles de pyrotechnie; allumettes; alliages pyrophoriques; matières inflammables",
+            "url": "https://www.douane.gov.ma/tarif/pdf/36.pdf"
+        },
+        {
+            "name": "Produits photographiques ou cinématographiques",
+            "url": "https://www.douane.gov.ma/tarif/pdf/37.pdf"
+        },
+        {
+            "name": "Produits divers des industries chimiques",
+            "url": "https://www.douane.gov.ma/tarif/pdf/38.pdf"
+        }
+    ],
+    "SECTION VII": [
+        {
+            "name": "Matières plastiques et ouvrages en ces matières",
+            "url": "https://www.douane.gov.ma/tarif/pdf/39.pdf"
+        },
+        {
+            "name": "Caoutchouc et ouvrages en caoutchouc",
+            "url": "https://www.douane.gov.ma/tarif/pdf/40.pdf"
+        }
+    ],
+    "SECTION VIII": [
+        {
+            "name": "Peaux (autres que les pelleteries) et cuirs",
+            "url": "https://www.douane.gov.ma/tarif/pdf/41.pdf"
+        },
+        {
+            "name": "Ouvrages en cuir; articles de bourrellerie ou de sellerie; articles de voyage, sacs à main et contenants similaires; ouvrages en boyaux",
+            "url": "https://www.douane.gov.ma/tarif/pdf/42.pdf"
+        },
+        {
+            "name": "Pelleteries et fourrures; pelleteries factices",
+            "url": "https://www.douane.gov.ma/tarif/pdf/43.pdf"
+        }
+    ],
+    "SECTION IX": [
+        {
+            "name": "Bois, charbon de bois et ouvrages en bois",
+            "url": "https://www.douane.gov.ma/tarif/pdf/44.pdf"
+        },
+        {
+            "name": "Liège et ouvrages en liège",
+            "url": "https://www.douane.gov.ma/tarif/pdf/45.pdf"
+        },
+        {
+            "name": "Ouvrages de sparterie ou de vannerie",
+            "url": "https://www.douane.gov.ma/tarif/pdf/46.pdf"
+        }
+    ],
+    "SECTION X": [
+        {
+            "name": "Pâtes de bois ou d'autres matières fibreuses cellulosiques; papier ou carton à recycler (déchets et rebuts)",
+            "url": "https://www.douane.gov.ma/tarif/pdf/47.pdf"
+        },
+        {
+            "name": "Papiers et cartons; ouvrages en pâte de cellulose, en papier ou en carton",
+            "url": "https://www.douane.gov.ma/tarif/pdf/48.pdf"
+        },
+        {
+            "name": "Produits de l'édition, de la presse ou des autres industries graphiques; textes manuscrits ou dactylographiés et plans",
+            "url": "https://www.douane.gov.ma/tarif/pdf/49.pdf"
+        }
+    ],
+    "SECTION XI": [
+        {
+            "name": "Soie",
+            "url": "https://www.douane.gov.ma/tarif/pdf/50.pdf"
+        },
+        {
+            "name": "Laine, poils fins ou grossiers; fils et tissus de crin",
+            "url": "https://www.douane.gov.ma/tarif/pdf/51.pdf"
+        },
+        {
+            "name": "Coton",
+            "url": "https://www.douane.gov.ma/tarif/pdf/52.pdf"
+        },
+        {
+            "name": "Autres fibres textiles végétales; fils de papier et tissus de fils de papier",
+            "url": "https://www.douane.gov.ma/tarif/pdf/53.pdf"
+        },
+        {
+            "name": "Filaments synthétiques ou artificiels",
+            "url": "https://www.douane.gov.ma/tarif/pdf/54.pdf"
+        },
+        {
+            "name": "Fibres synthétiques ou artificielles discontinues",
+            "url": "https://www.douane.gov.ma/tarif/pdf/55.pdf"
+        },
+        {
+            "name": "Ouates, feutres et nontissés; fils spéciaux; ficelles, cordes et cordages; articles de corderie",
+            "url": "https://www.douane.gov.ma/tarif/pdf/56.pdf"
+        },
+        {
+            "name": "Tapis et autres revêtements de sol en matières textiles",
+            "url": "https://www.douane.gov.ma/tarif/pdf/57.pdf"
+        },
+        {
+            "name": "Tissus spéciaux; surfaces textiles touffetées; dentelles; tapisseries; passementeries; broderies",
+            "url": "https://www.douane.gov.ma/tarif/pdf/58.pdf"
+        },
+        {
+            "name": "Tissus imprégnés, enduits, recouverts ou stratifiés; articles techniques en matières textiles",
+            "url": "https://www.douane.gov.ma/tarif/pdf/59.pdf"
+        },
+        {
+            "name": "Étoffes de bonneterie",
+            "url": "https://www.douane.gov.ma/tarif/pdf/60.pdf"
+        },
+        {
+            "name": "Vêtements et accessoires du vêtement, en bonneterie",
+            "url": "https://www.douane.gov.ma/tarif/pdf/61.pdf"
+        },
+        {
+            "name": "Vêtements et accessoires du vêtement, autres qu'en bonneterie",
+            "url": "https://www.douane.gov.ma/tarif/pdf/62.pdf"
+        },
+        {
+            "name": "Autres articles textiles confectionnés; assortiments; friperie et chiffons",
+            "url": "https://www.douane.gov.ma/tarif/pdf/63.pdf"
+        }
+    ],
+    "SECTION XII": [
+        {
+            "name": "Chaussures, guêtres et articles analogues; parties de ces objets",
+            "url": "https://www.douane.gov.ma/tarif/pdf/64.pdf"
+        },
+        {
+            "name": "Coiffures et parties de coiffures",
+            "url": "https://www.douane.gov.ma/tarif/pdf/65.pdf"
+        },
+        {
+            "name": "Parapluies, ombrelles, parasols, cannes, cannes-sièges, fouets, cravaches et leurs parties",
+            "url": "https://www.douane.gov.ma/tarif/pdf/66.pdf"
+        },
+        {
+            "name": "Plumes et duvet apprêtés et articles en plumes ou en duvet; fleurs artificielles; ouvrages en cheveux",
+            "url": "https://www.douane.gov.ma/tarif/pdf/67.pdf"
+        }
+    ],
+    "SECTION XIII": [
+        {
+            "name": "Ouvrages en pierres, plâtre, ciment, amiante, mica ou matières analogues",
+            "url": "https://www.douane.gov.ma/tarif/pdf/68.pdf"
+        },
+        {
+            "name": "Produits céramiques",
+            "url": "https://www.douane.gov.ma/tarif/pdf/69.pdf"
+        },
+        {
+            "name": "Verre et ouvrages en verre",
+            "url": "https://www.douane.gov.ma/tarif/pdf/70.pdf"
+        }
+    ],
+    "SECTION XIV": [
+        {
+            "name": "Perles fines ou de culture, pierres gemmes ou similaires, métaux précieux, plaqués ou doublés de métaux précieux et ouvrages en ces matières; bijouterie de fantaisie; monnaies",
+            "url": "https://www.douane.gov.ma/tarif/pdf/71.pdf"
+        }
+    ],
+    "SECTION XV": [
+        {
+            "name": "Fonte, fer et acier",
+            "url": "https://www.douane.gov.ma/tarif/pdf/72.pdf"
+        },
+        {
+            "name": "Ouvrages en fonte, fer ou acier",
+            "url": "https://www.douane.gov.ma/tarif/pdf/73.pdf"
+        },
+        {
+            "name": "Cuivre et ouvrages en cuivre",
+            "url": "https://www.douane.gov.ma/tarif/pdf/74.pdf"
+        },
+        {
+            "name": "Nickel et ouvrages en nickel",
+            "url": "https://www.douane.gov.ma/tarif/pdf/75.pdf"
+        },
+        {
+            "name": "Aluminium et ouvrages en aluminium",
+            "url": "https://www.douane.gov.ma/tarif/pdf/76.pdf"
+        },
+        {
+            "name": "Plomb et ouvrages en plomb",
+            "url": "https://www.douane.gov.ma/tarif/pdf/78.pdf"
+        },
+        {
+            "name": "Zinc et ouvrages en zinc",
+            "url": "https://www.douane.gov.ma/tarif/pdf/79.pdf"
+        },
+        {
+            "name": "Étain et ouvrages en étain",
+            "url": "https://www.douane.gov.ma/tarif/pdf/80.pdf"
+        },
+        {
+            "name": "Autres métaux communs; cermets; ouvrages en ces matières",
+            "url": "https://www.douane.gov.ma/tarif/pdf/81.pdf"
+        },
+        {
+            "name": "Outils et outillage, articles de coutellerie et couverts de table, en métaux communs; parties de ces articles, en métaux communs",
+            "url": "https://www.douane.gov.ma/tarif/pdf/82.pdf"
+        },
+        {
+            "name": "Ouvrages divers en métaux communs",
+            "url": "https://www.douane.gov.ma/tarif/pdf/83.pdf"
+        }
+    ],
+    "SECTION XVI": [
+        {
+            "name": "Réacteurs nucléaires, chaudières, machines, appareils et engins mécaniques; parties de ces machines ou appareils",
+            "url": "https://www.douane.gov.ma/tarif/pdf/84.pdf"
+        },
+        {
+            "name": "Machines, appareils et matériels électriques et leurs parties; appareils d'enregistrement ou de reproduction du son, appareils d'enregistrement ou de reproduction des images et du son en télévision, et parties et accessoires de ces appareils",
+            "url": "https://www.douane.gov.ma/tarif/pdf/85.pdf"
+        }
+    ],
+    "SECTION XVII": [
+        {
+            "name": "Véhicules et matériel pour voies ferrées ou similaires et leurs parties; appareils mécaniques (y compris électromécaniques) de signalisation pour voies de communications",
+            "url": "https://www.douane.gov.ma/tarif/pdf/86.pdf"
+        },
+        {
+            "name": "Voitures automobiles, tracteurs, cycles et autres véhicules terrestres, leurs parties et accessoires",
+            "url": "https://www.douane.gov.ma/tarif/pdf/87.pdf"
+        },
+        {
+            "name": "Navigation aérienne ou spatiale",
+            "url": "https://www.douane.gov.ma/tarif/pdf/88.pdf"
+        },
+        {
+            "name": "Navigation maritime ou fluviale",
+            "url": "https://www.douane.gov.ma/tarif/pdf/89.pdf"
+        }
+    ],
+    "SECTION XVIII": [
+        {
+            "name": "Instruments et appareils d'optique, de photographie ou de cinématographie, de mesure, de contrôle ou de précision; instruments et appareils médico-chirurgicaux; parties et accessoires de ces instruments ou appareils",
+            "url": "https://www.douane.gov.ma/tarif/pdf/90.pdf"
+        },
+        {
+            "name": "Horlogerie",
+            "url": "https://www.douane.gov.ma/tarif/pdf/91.pdf"
+        },
+        {
+            "name": "Instruments de musique; parties et accessoires de ces instruments",
+            "url": "https://www.douane.gov.ma/tarif/pdf/92.pdf"
+        }
+    ],
+    "SECTION XIX": [
+        {
+            "name": "Armes, munitions et leurs parties et accessoires",
+            "url": "https://www.douane.gov.ma/tarif/pdf/93.pdf"
+        }
+    ],
+    "SECTION XX": [
+        {
+            "name": "Meubles; mobilier médico-chirurgical; articles de literie et similaires; appareils d'éclairage non dénommés ni compris ailleurs; lampes-réclames, enseignes lumineuses, plaques indicatrices lumineuses et articles similaires; constructions préfabriquées",
+            "url": "https://www.douane.gov.ma/tarif/pdf/94.pdf"
+        },
+        {
+            "name": "Jouets, jeux, articles pour divertissements ou pour sports; leurs parties et accessoires",
+            "url": "https://www.douane.gov.ma/tarif/pdf/95.pdf"
+        },
+        {
+            "name": "Ouvrages divers",
+            "url": "https://www.douane.gov.ma/tarif/pdf/96.pdf"
+        }
+    ],
+    "SECTION XXI": [
+        {
+            "name": "Objets d'art, de collection ou d'antiquité",
+            "url": "https://www.douane.gov.ma/tarif/pdf/97.pdf"
+        }
+    ]
+}
